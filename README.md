@@ -8,3 +8,5 @@ lololens系统重置
 
 2、按住音量增大按钮
 3、按住音量增大按钮的同时，按住电源按钮10秒钟，直到设备臂上的中间LED亮起。
+重置教程：
+https://support.microsoft.com/zh-cn/help/13452/hololens-restart-reset-or-recover-hololens
